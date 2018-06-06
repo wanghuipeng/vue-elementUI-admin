@@ -1,6 +1,6 @@
-# avatar
+# vue-elementUI-admin
 
-> avatar
+> vue-elementUI-admin
 
 ## Build Setup
 

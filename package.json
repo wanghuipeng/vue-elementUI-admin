@@ -1,7 +1,7 @@
 {
-    "name": "huohuo",
+    "name": "vue-elementUI-admin",
     "version": "1.0.0",
-    "description": "huohuo",
+    "description": "vue-elementUI-admin",
     "author": "wanghuipeng",
     "private": true,
     "scripts": {
